@@ -1,6 +1,6 @@
 import pyodbc
 
-SERVER = r"localhost"
+SERVER = r"localhost\SQLEXPRESS"
 DATABASE = "delivery"
 DRIVER = "ODBC Driver 17 for SQL Server"
 
